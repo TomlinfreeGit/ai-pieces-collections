@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"drawio-mcp-app-server": {
+			"url": "http://192.168.137.100:3001/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
