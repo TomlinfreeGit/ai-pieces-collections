@@ -6,7 +6,7 @@ This repository focuses on practical, execution-oriented assets you can plug int
 
 ## What is included
 
-- 18 reusable skills under `skills/`
+- 19 reusable skills under `skills/`
 - 11 reusable instructions under `instructions/`
 - 1 tool playbook under `tools/`
 - 1 MCP integration reference under `mcp/`
@@ -36,6 +36,7 @@ This repository focuses on practical, execution-oriented assets you can plug int
 |       `-- README.md
 |-- skills/
 |   |-- agent-browser/
+|   |-- ai-fomo/
 |   |-- breakdown-epic-arch/
 |   |-- breakdown-feature-implementation/
 |   |-- breakdown-test/
@@ -64,6 +65,7 @@ This repository focuses on practical, execution-oriented assets you can plug int
 | Skill | Purpose |
 |---|---|
 | `agent-browser` | Install and use the Agent Browser skill for browser-driven automation flows. |
+| `ai-fomo` | Turn AI information overload into reusable knowledge, signals, and digest workflows. |
 | `breakdown-epic-arch` | Create high-level technical architecture from an Epic PRD. |
 | `breakdown-feature-implementation` | Generate detailed feature implementation plans (monorepo-oriented). |
 | `breakdown-test` | Build test strategy and QA planning artifacts. |
