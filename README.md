@@ -6,7 +6,7 @@ This repository focuses on practical, execution-oriented assets you can plug int
 
 ## What is included
 
-- 15 reusable skills under `skills/`
+- 18 reusable skills under `skills/`
 - 11 reusable instructions under `instructions/`
 - 1 tool playbook under `tools/`
 - 1 MCP integration reference under `mcp/`
@@ -35,6 +35,7 @@ This repository focuses on practical, execution-oriented assets you can plug int
 |   `-- drawio-mcp/
 |       `-- README.md
 |-- skills/
+|   |-- agent-browser/
 |   |-- breakdown-epic-arch/
 |   |-- breakdown-feature-implementation/
 |   |-- breakdown-test/
@@ -42,9 +43,11 @@ This repository focuses on practical, execution-oriented assets you can plug int
 |   |-- create-architectural-decision-record/
 |   |-- create-readme/
 |   |-- create-technical-spike/
+|   |-- curl-api-testing/
 |   |-- documentation-writer/
 |   |-- drawio/
 |   |-- frontend-design/
+|   |-- generate-import-export-import-files/
 |   |-- meeting-minutes/
 |   |-- playwright-generate-test/
 |   |-- playwright-recording/
@@ -60,6 +63,7 @@ This repository focuses on practical, execution-oriented assets you can plug int
 
 | Skill | Purpose |
 |---|---|
+| `agent-browser` | Install and use the Agent Browser skill for browser-driven automation flows. |
 | `breakdown-epic-arch` | Create high-level technical architecture from an Epic PRD. |
 | `breakdown-feature-implementation` | Generate detailed feature implementation plans (monorepo-oriented). |
 | `breakdown-test` | Build test strategy and QA planning artifacts. |
@@ -67,9 +71,11 @@ This repository focuses on practical, execution-oriented assets you can plug int
 | `create-architectural-decision-record` | Generate structured ADR documents. |
 | `create-readme` | Create concise, high-quality project README files. |
 | `create-technical-spike` | Create time-boxed technical spike documents before implementation. |
+| `curl-api-testing` | Test and debug REST APIs with reproducible `curl` workflows and compact result reports. |
 | `documentation-writer` | Produce docs using the Diataxis framework. |
 | `drawio` | Generate native `.drawio` diagrams and optional exports. |
 | `frontend-design` | Build distinctive, production-grade frontend UI and pages. |
+| `generate-import-export-import-files` | Generate valid/invalid import JSON datasets for import-export testing scenarios. |
 | `meeting-minutes` | Generate concise meeting minutes with actions and decisions. |
 | `playwright-generate-test` | Generate Playwright tests from scenario-driven flows. |
 | `playwright-recording` | Record and refine Playwright tests with codegen workflow. |
